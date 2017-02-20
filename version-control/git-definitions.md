@@ -18,4 +18,4 @@ A commit is a save point in version control. A good commit message clearly state
 
 A conflict can occur if two branches you are trying to merge both changed the same part of the same file.
 
-**Adding flair**
+## Adding flair!
