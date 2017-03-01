@@ -1,0 +1,27 @@
+
+.octavia {
+	position: relative;
+}
+#glasses {
+	top: 200px;
+	left: 275px;
+	position: absolute;
+	z-index: 1;
+}
+#hat {
+	top: 10px;
+	left: 200px;
+	position: absolute;
+}
+#octopus {
+	top: 100px;
+	left: 225px;
+	position: absolute;
+	z-index: -1;
+}
+
+
+
+
+
+
