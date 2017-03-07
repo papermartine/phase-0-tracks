@@ -1,0 +1,21 @@
+Elevator and Ms Robot
+
+- Find out destination floor
+	- Ask robot for a name to use
+	- Greet robot-name and ask to move forward until reaching elevator door
+	- Ask robot whether she is 'leaving' or 'entering'
+		- if 'leaving' press 'down' button
+		- if 'enterting' press 'up' button
+	- Ask robot what floor they will be traveling to
+
+-Entering Elevator
+	- Direct robot to advance into the elevator car when elevator doors open
+	- Direct robot to face doors of elevator
+
+- Choosing Floor 
+	- Direct to press button with floor number
+	- If button <1, say "Floor (number)" until Floor 1.
+	- If button >1, say "Floor (number)" until desired floor.
+	- After reaching Floor 1 or desired floor, ask robot to walk out of the elevator and search for destination. 
+
+
