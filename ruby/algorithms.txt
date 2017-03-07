@@ -1,4 +1,4 @@
-Elevator and Ms Robot
+# Elevator and Ms Robot
 
 - Find out destination floor
 	- Ask robot for a name to use
@@ -17,5 +17,30 @@ Elevator and Ms Robot
 	- If button <1, say "Floor (number)" until Floor 1.
 	- If button >1, say "Floor (number)" until desired floor.
 	- After reaching Floor 1 or desired floor, ask robot to walk out of the elevator and search for destination. 
+
+# Treats for your Pet
+
+- Trick One
+
+	-Ask dog to sit
+		- If dog sits, give a treat and say "Good!"
+		- Else if dog does not sit
+		-ask again until dog sits, then give a treat and say "Good!"
+
+- Trick Two
+	- Ask dog to give a high five
+		- If dog gives a high five
+			- say "Good!" 
+			- give a treat
+			- ask dog to "lay down"
+		-Else, ask dog to give high five again until success
+			- give a treat
+			- ask dog to "lay down"
+	-End with giving extra treat.
+
+
+
+	
+
 
 
